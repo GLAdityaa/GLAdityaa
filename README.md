@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GLAdityaa
-- 👀 I’m interested in Cricket
-- 🌱 I’m currently learning programming 
+- 👋 Hi, I’m Lalith Aditya
+- 🌱 I’m currently a student seeking for great opportunities
+- Looking forward for becoming a great VLSI Engineer
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me @GLAdityaa is my id on github
 
