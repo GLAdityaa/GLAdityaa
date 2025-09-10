@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lalith Aditya
 - 🌱 I’m currently a student seeking for great opportunities
-- Looking forward for becoming a great VLSI Engineer
-- 💞️ I’m looking to collaborate on github
+- Looking forward for becoming a great Embedded Engineer
 - 📫 How to reach me @GLAdityaa is my id on github
 
 <!---
